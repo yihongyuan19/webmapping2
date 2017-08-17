@@ -3,7 +3,6 @@
 #!/usr/bin/env python
 
 #@Kang
-#test 2
 
 '''Shell Sort'''
 
